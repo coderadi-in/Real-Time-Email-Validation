@@ -2,17 +2,8 @@
 
 ## TECH STACK
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="docs/ctk.png" width="30">
-    <span>CustomTkinter</span>
-</div>
-
----
-
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="docs/python.png" width="30">
-    <span>Python</span>
-</div>
+<img src="docs/ctk.png" width="30">
+<img src="docs/python.png" width="30">
 
 ---
 
