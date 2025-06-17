@@ -2,8 +2,7 @@
 
 ## TECH STACK
 
-<img src="docs/ctk.png" width="30">
-<img src="docs/python.png" width="30">
+<img src="docs/ctk.png" width="30"> <img src="docs/python.png" width="30">
 
 ---
 
